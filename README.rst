@@ -80,10 +80,12 @@ docker command
 
 + **docker log**
 .. code-block:: console
+
 	$ sudo docker logs -f <container name>
 
 + **show port map**
 .. code-block:: console
+
 	$ sudo docker port <container name> <port>
 
 
